@@ -1,0 +1,10 @@
+Vol.3 patcher v0.75
+
+The patcher is adapted from the MIT-licensed Vol.1 patcher (Copyright (c) 2026 GiKakNo).
+This executable bundles Python, Tcl/Tk, PyInstaller, xdelta3 3.2.1 and an original-to-Korean VCDIFF patch.
+The game uses Galmuri, MaruMinya Hangul and DenkiChip Hangul lettering (SIL OFL 1.1).
+Original game, art, characters, names and trademarks belong to their respective owners.
+No original game image, BIOS, emulator, test input adapter or VMU save is distributed.
+Licenses are available through the patcher's license button and in the release ZIP.
+
+Project: https://github.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-3-Kr

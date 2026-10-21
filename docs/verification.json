@@ -1,0 +1,72 @@
+{
+  "public_version": "v0.75",
+  "internal_build": "v0.28",
+  "applied_translation_records": 17199,
+  "applied_by_storage": {
+    "native_text": 4972,
+    "extra_text": 338,
+    "fixed_item_name": 10941,
+    "fixed_enemy_name": 112,
+    "browser_text": 823,
+    "fixed_save_glyph": 3,
+    "fixed_vmu_metadata": 6,
+    "fixed_native_message": 4
+  },
+  "remaining_registered_untranslated_or_unreviewed_candidates": 0,
+  "files_verified": 923,
+  "changed_files": 60,
+  "original_files_preserved": 863,
+  "changed_sectors_verified": 15364,
+  "all_changed_sector_edc_ecc_valid": true,
+  "original_tracks_untouched": true,
+  "output_track03_sha256": "ce1f138d02f4894e65626567dc69598a6d981e27686408f7f3d19af7243461c6",
+  "output_gdi_sha256": "025516557d49e1835e7eb8571e09244b64db190cf3981ead555c54b1924ca19f",
+  "original_track_layout": [
+    [
+      1,
+      0,
+      4,
+      2352,
+      0
+    ],
+    [
+      2,
+      600,
+      0,
+      2352,
+      0
+    ],
+    [
+      3,
+      45000,
+      4,
+      2352,
+      0
+    ]
+  ],
+  "public_output_descriptor_preserves_original_track02_lba": 600,
+  "extra_content_text_fields": 338,
+  "extra_content_image_captions": 14,
+  "existing_Hangul_cells_preserved": 1002,
+  "appended_Hangul_cells": 41,
+  "editor_integration_tests_passed": 17,
+  "editor_frozen_full_track_reproduction_verified": true,
+  "patcher_unit_tests_passed": 7,
+  "frozen_EXE_applied_to_original_GDI": true,
+  "output_of_frozen_EXE_cold_boot_verified": true,
+  "earlier_native_tests": {
+    "normal_battle_and_loot": true,
+    "normal_VMU_save_reload": true,
+    "original_price_download_purchase": true,
+    "purchased_item_and_money_cold_reload": true,
+    "browser_menu_and_address_input_delete": true
+  },
+  "private_price_overrides_distributed": false,
+  "game_RAM_modified_for_tests": false,
+  "test_VMUs_or_BIOS_or_emulators_distributed": false,
+  "complete_text_extraction_verified": false,
+  "full_playthrough_verified": false,
+  "real_hardware_verified": false,
+  "all_extra_pages_native_verified": false,
+  "all_30_opening_cues_native_playback_verified": false
+}

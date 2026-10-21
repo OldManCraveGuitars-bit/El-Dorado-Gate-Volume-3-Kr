@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.bin
+*.raw
+*.gdi
+*.exe
+*.xdelta
+*.zip
+build/
+dist/
+*.spec

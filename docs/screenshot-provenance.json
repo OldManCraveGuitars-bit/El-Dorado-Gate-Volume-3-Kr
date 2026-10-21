@@ -1,0 +1,118 @@
+{
+  "images": [
+    {
+      "file": "screenshots/title.png",
+      "sha256": "64c3c045c57b2a8b34f3fe307b707245b7f7dc6e866b9b3ce91a9125bdf8a80f",
+      "capture_build": "v0.25",
+      "source_capture": "analysis/browser-runtime-v025/evidence/030-v025-return-game-title.png",
+      "caption": "한글 타이틀",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/main-menu.png",
+      "sha256": "ae1675cb625b2b3fd0ac48d7db24388e808ae0a5ac0d4d90f563c3a1ce67686c",
+      "capture_build": "v0.75 standalone EXE output",
+      "source_capture": "analysis/extra-runtime-v028/evidence/v075-001-main-menu.png",
+      "caption": "메인 메뉴",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/extra-menu.png",
+      "sha256": "73bfd51e8ba9d9ca233dfffaab37838b9e803b4d5407923802e94259530ebc64",
+      "capture_build": "v0.75 standalone EXE output",
+      "source_capture": "analysis/extra-runtime-v028/evidence/v075-004-extra-menu.png",
+      "caption": "추가 콘텐츠 메뉴",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/encyclopedia-menu.png",
+      "sha256": "315c4402590f5c01d159d0602b40bda9ca1d35e6abc84a17cb99e688135dbe69",
+      "capture_build": "v0.75 standalone EXE output",
+      "source_capture": "analysis/extra-runtime-v028/evidence/v075-005-ency-menu.png",
+      "caption": "사전·줄거리·인물 소개",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/dictionary.png",
+      "sha256": "2c2b6fd3af9c35b2a0703f2935a8c20a85b8ceb482db29772bb114088629272b",
+      "capture_build": "v0.75 standalone EXE output",
+      "source_capture": "analysis/extra-runtime-v028/evidence/v075-006-dictionary.png",
+      "caption": "용어 사전",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/character.png",
+      "sha256": "49444ab8eac88468b197e54a747ce8a47ff5ebb3b217609a884eed3da636cce6",
+      "capture_build": "v0.28 first candidate; identical text BIN in final",
+      "source_capture": "analysis/extra-runtime-v028/evidence/015-intro-page.png",
+      "caption": "인물 소개",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/story.png",
+      "sha256": "f6c074d6e2088e6e0c1e66fdf4eeee74453a196ff48aadab623d58923780d2a1",
+      "capture_build": "v0.28 first candidate; identical text BIN in final",
+      "source_capture": "analysis/extra-runtime-v028/evidence/010-story-first.png",
+      "caption": "줄거리 소개",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/monster-gallery.png",
+      "sha256": "c805c7a07c6cebb662573a94b36b75d21c27bd14dd598a90965f470c30849cce",
+      "capture_build": "v0.28 first candidate; identical GALL atlas in final",
+      "source_capture": "analysis/extra-runtime-v028/evidence/027-gallery-load-confirmed.png",
+      "caption": "몬스터 도감",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/options.png",
+      "sha256": "bb51d143d1be03795b61f29f31463b60fc9ff1381ce334ad2a8bae2538ac5472",
+      "capture_build": "v0.19",
+      "source_capture": "analysis/settings-runtime-v019/evidence/032-v019-settings-fixed.png",
+      "caption": "설정 화면 좌표 수정",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/download-shop.png",
+      "sha256": "7e6252930c132f561185b193139f6d946fca1486ae2d7c6e3af5fde5db2ed3b7",
+      "capture_build": "v0.24",
+      "source_capture": "analysis/native-msg-runtime-v022/evidence/362-v024-affordable-original-download-weapon.png",
+      "caption": "오프라인 다운로드 상점",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/purchased-item.png",
+      "sha256": "a0b6d290bfe625081386c29983c5fd8adecfeaf4b545d8b446dd3a1cc95c9548",
+      "capture_build": "v0.24",
+      "source_capture": "analysis/native-msg-runtime-v022/evidence/370-v024-bought-air-rapier-owned-inventory.png",
+      "caption": "정상 가격으로 구매한 에어 레이피어",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    },
+    {
+      "file": "screenshots/browser.png",
+      "sha256": "5d0ccda1e447da0c8badaf758d7be6343ea43d893c44c71da679b868222dcecd",
+      "capture_build": "v0.25",
+      "source_capture": "analysis/browser-runtime-v025/evidence/017-v025-browser-option-screen.png",
+      "caption": "브라우저 환경 설정",
+      "original_emulator_framebuffer": true,
+      "retouched": false
+    }
+  ],
+  "game": "El-Dorado Gate Volume 3",
+  "public_release": "v0.75",
+  "release_track_identical_to_internal_build": "v0.28 final",
+  "all_captures_actual_game_output": true,
+  "AI_images_used": false,
+  "note": "Earlier settings, title, opening, shop and browser captures are marked by their actual build. They are not presented as newly captured v0.75 images. Locked monster rows are the normal contents of the loaded QA save; no forced unlock was used."
+}

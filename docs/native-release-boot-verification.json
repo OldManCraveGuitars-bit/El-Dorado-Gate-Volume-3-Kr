@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "public_version": "v0.75",
+  "patched_EXE_output_cold_boot_verified": true,
+  "track03_sha256": "ce1f138d02f4894e65626567dc69598a6d981e27686408f7f3d19af7243461c6",
+  "output_gdi_sha256": "025516557d49e1835e7eb8571e09244b64db190cf3981ead555c54b1924ca19f",
+  "source_and_output_track02_lba": 600,
+  "emulator": "Flycast libretro",
+  "BIOS_mode": "real BIOS, not distributed",
+  "ordinary_controller_callbacks": true,
+  "game_RAM_modified": false,
+  "emulator_states_loaded": false,
+  "Korean_main_menu_observed": true,
+  "Korean_extra_menu_observed": true,
+  "Korean_encyclopedia_banner_and_dictionary_observed": true,
+  "native_screenshots": [
+    "screenshots/main-menu.png",
+    "screenshots/extra-menu.png",
+    "screenshots/encyclopedia-menu.png",
+    "screenshots/dictionary.png"
+  ],
+  "normally_closed": true,
+  "QA_VMU_unchanged": true,
+  "full_playthrough_verified": false
+}
