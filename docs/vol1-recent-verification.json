@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "reference_vol1_version": "1.7.12",
+  "registered_text_rows": 17199,
+  "layout_errors": 0,
+  "corrected_text_rows": 138,
+  "native_strings_verified": 4972,
+  "native_pointers_verified": 5137,
+  "extra_strings_verified": 338,
+  "status_badges": 9,
+  "status_records": 18,
+  "comparison_renderers": 8,
+  "chapter_number_and_collection_values_preserved": true,
+  "ending_sprites_verified": 44,
+  "existing_Hangul_font_codes_and_pixels_preserved": 1043,
+  "changed_assets_since_v028": [
+    "1ST_READ.BIN",
+    "BOOT_TEX.TLP",
+    "COMN/EN_OBJ00.RLC",
+    "COMN/EN_OBJ01.RLC",
+    "EXTRA/GALLERY.BIN",
+    "EXTRA/INTRODUCE.BIN",
+    "EXTRA/OUTLINE.BIN",
+    "EXTRA/SYS_INFO.BIN",
+    "SCEN00.OVL",
+    "SCEN01.OVL",
+    "SCEN03.OVL",
+    "SCEN04.OVL",
+    "SCEN05.OVL"
+  ],
+  "other_patched_assets_byte_identical": 47,
+  "chapter3_heading_change_not_applicable": "Vol.3 contains chapters 7 and 8; its two headings were already localized.",
+  "remaining_credit_name_reading_notes": [
+    {
+      "jp": "照屋 裕",
+      "ko": "테루야 유타카",
+      "status": "provisional_reading",
+      "note": "Vol.3 original credit spelling reviewed. Common kanji reading used; staff-specific phonetic confirmation was not found."
+    },
+    {
+      "jp": "前田 晃秀",
+      "ko": "마에다 아키히데",
+      "status": "provisional_reading",
+      "note": "Vol.3 original credit spelling reviewed. Common kanji reading used; staff-specific phonetic confirmation was not found."
+    },
+    {
+      "jp": "岩木 央昌",
+      "ko": "이와키 히로마사",
+      "status": "provisional_reading",
+      "note": "Vol.3 original credit spelling reviewed. Common kanji reading used; staff-specific phonetic confirmation was not found."
+    },
+    {
+      "jp": "古田 佳野子（セーシュ）",
+      "ko": "후루타 카노코 (세슈)",
+      "status": "provisional_reading",
+      "note": "Vol.3 original credit spelling reviewed. Common kanji reading used; staff-specific phonetic confirmation was not found."
+    }
+  ],
+  "native_ending_playback_verified": false,
+  "full_playthrough_verified": false,
+  "track03_sha256": "5812bb5d4e4bbfe3caa65015039eb52dcadf3501311bd6ce37cd04784da0c5df",
+  "public_version": "v0.8",
+  "internal_build": "v0.29"
+}

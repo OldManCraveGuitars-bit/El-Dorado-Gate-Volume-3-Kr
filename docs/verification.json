@@ -1,6 +1,6 @@
 {
-  "public_version": "v0.75",
-  "internal_build": "v0.28",
+  "public_version": "v0.8",
+  "internal_build": "v0.29",
   "applied_translation_records": 17199,
   "applied_by_storage": {
     "native_text": 4972,
@@ -16,10 +16,10 @@
   "files_verified": 923,
   "changed_files": 60,
   "original_files_preserved": 863,
-  "changed_sectors_verified": 15364,
+  "changed_sectors_verified": 15387,
   "all_changed_sector_edc_ecc_valid": true,
   "original_tracks_untouched": true,
-  "output_track03_sha256": "ce1f138d02f4894e65626567dc69598a6d981e27686408f7f3d19af7243461c6",
+  "output_track03_sha256": "5812bb5d4e4bbfe3caa65015039eb52dcadf3501311bd6ce37cd04784da0c5df",
   "output_gdi_sha256": "025516557d49e1835e7eb8571e09244b64db190cf3981ead555c54b1924ca19f",
   "original_track_layout": [
     [
@@ -47,13 +47,13 @@
   "public_output_descriptor_preserves_original_track02_lba": 600,
   "extra_content_text_fields": 338,
   "extra_content_image_captions": 14,
-  "existing_Hangul_cells_preserved": 1002,
-  "appended_Hangul_cells": 41,
+  "existing_Hangul_cells_preserved": 1043,
+  "appended_Hangul_cells": 0,
   "editor_integration_tests_passed": 17,
   "editor_frozen_full_track_reproduction_verified": true,
   "patcher_unit_tests_passed": 7,
   "frozen_EXE_applied_to_original_GDI": true,
-  "output_of_frozen_EXE_cold_boot_verified": true,
+  "output_of_frozen_EXE_cold_boot_verified": false,
   "earlier_native_tests": {
     "normal_battle_and_loot": true,
     "normal_VMU_save_reload": true,
@@ -68,5 +68,17 @@
   "full_playthrough_verified": false,
   "real_hardware_verified": false,
   "all_extra_pages_native_verified": false,
-  "all_30_opening_cues_native_playback_verified": false
+  "all_30_opening_cues_native_playback_verified": false,
+  "editor_version": "0.1.11",
+  "port_regression_tests_passed": 7,
+  "changed_translation_records": 138,
+  "native_text_layout_errors": 0,
+  "boxed_status_icons": 9,
+  "boxed_status_records": 18,
+  "item_comparison_renderers": 8,
+  "ending_sprites": 44,
+  "original_collection_counts_and_item_stats_preserved": true,
+  "native_ending_playback_verified": false,
+  "credit_names_with_provisional_readings": 4,
+  "byte_identical_internal_GDI_cold_boot_verified": true
 }

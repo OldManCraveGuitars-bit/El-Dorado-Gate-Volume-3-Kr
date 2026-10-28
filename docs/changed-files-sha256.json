@@ -4,7 +4,7 @@
     "before_bytes": 1369376,
     "after_bytes": 1369376,
     "before_sha256": "30d263deb7b88730f0e79c7459a8da058d34520b365f7f7ba09f291b4f228b36",
-    "after_sha256": "f8f514e46a5957970bfb8b972cb2a13b7efe9379bf81e4ad527d70be61200ab8"
+    "after_sha256": "f121bed8e6ec5257bc63e4d75338ddf880268187fedb415d8c3a854076bc0a8d"
   },
   {
     "file": "2_DP.BIN",
@@ -25,7 +25,7 @@
     "before_bytes": 118784,
     "after_bytes": 139264,
     "before_sha256": "5414fc1adc835c165ef181000cb8f1799277e78a811d6b23697917ae8ac03fe5",
-    "after_sha256": "97d71072e36105132712c485cdceba416c5ec96d9828b50636f3aec3d560b52d"
+    "after_sha256": "d6e238092e7dfac5bec82e3afce5f54912cf10c0f56189fabbc5fe3489337952"
   },
   {
     "file": "COMN/CARDOBJ.PAT",
@@ -44,16 +44,16 @@
   {
     "file": "COMN/EN_OBJ00.RLC",
     "before_bytes": 210080,
-    "after_bytes": 191232,
+    "after_bytes": 206067,
     "before_sha256": "9e769d41b194fc8ef72f348c02fa4be4624d2ca60bc66a68038f89d5d12f7a54",
-    "after_sha256": "3800f550008a638955dd12ba3bd2979f3a6ac080fba0d3c9b14ec2b3a6f01eec"
+    "after_sha256": "f14519ddb9869e26c51384b88133a89944bb98026fb3e7d4c9509ec4c3f20a00"
   },
   {
     "file": "COMN/EN_OBJ01.RLC",
     "before_bytes": 207013,
-    "after_bytes": 188182,
+    "after_bytes": 205549,
     "before_sha256": "973e1ea8c54dfc35ca1a673e39e404a90d0ce69539dff01750ec280668491c0a",
-    "after_sha256": "39365d296959d4944493d6eae98146ba3abd3815544a38396c46efd00915c7f4"
+    "after_sha256": "5512bbc88cb8d0d65b826d271179ce845391212034cb96a939aba1bc780a23eb"
   },
   {
     "file": "COMN/ITEM.PAC",
@@ -333,28 +333,28 @@
     "before_bytes": 15690,
     "after_bytes": 15690,
     "before_sha256": "a2d601b489900f289cf66948db692ed01ba483febeb6e1a09fcb25238cd91b5d",
-    "after_sha256": "dc6bd1ee43881b87585dcf2a0203a2f33eed4bd88d18f331c67d447db82eda82"
+    "after_sha256": "ae08ef9ea77ab671fb0479f04f1caa3eb88e86a3cc13385dfce0fbaa8d20111f"
   },
   {
     "file": "EXTRA/INTRODUCE.BIN",
     "before_bytes": 13076,
     "after_bytes": 13076,
     "before_sha256": "7563a65e1b11b9f5380a94820553197ebacf024442935d083b674b1e71acee7a",
-    "after_sha256": "174765139d99df1d9bcf5008d4c7d19705172961056384951866683f00a76cfd"
+    "after_sha256": "d630ad0ea74fa78af6fc4adaf1aa9805c7f100757c6b9a7b838f5fa8feeb4a05"
   },
   {
     "file": "EXTRA/OUTLINE.BIN",
     "before_bytes": 7114,
     "after_bytes": 7114,
     "before_sha256": "56cc73dbc4056da1da6ed84caf8397748de3a99c9768daeee5bcf160891724be",
-    "after_sha256": "4b4666b1473b1fccdf33f404163636f35b900f98ddf68579db40dbff7361fb33"
+    "after_sha256": "9d9e4a276e20bc87d0effe5490baaa191ba0e72dc1d9fc6f7a70731127a12e7d"
   },
   {
     "file": "EXTRA/SYS_INFO.BIN",
     "before_bytes": 7836,
     "after_bytes": 7836,
     "before_sha256": "a14f7256e998d4172d75fb34396194dc1a5dd678f43920c74b4d192e3313e7c5",
-    "after_sha256": "a52860253bacfd2bd97c558d62593f45ec18809f4a49626bcdb90d3664ff2ac9"
+    "after_sha256": "473b646271a46d208fed112d60b5c7f98246db1c158f3770878293b86a4a8301"
   },
   {
     "file": "OPENING.SFD",
@@ -366,9 +366,9 @@
   {
     "file": "SCEN00.OVL",
     "before_bytes": 99371,
-    "after_bytes": 101678,
+    "after_bytes": 101803,
     "before_sha256": "e211671b8fd6b5d6031a198a49d9eaa0deed4516b530dcf2ff679a40f3ea01e4",
-    "after_sha256": "4c46ad89080fdc2dee6f5037d5556f0479e665a193f3bb6b40af5f093c24ad9d"
+    "after_sha256": "2102225c562c74bc39c94f6ec36a54c8f9eac95967d373a8127910a2126bcdad"
   },
   {
     "file": "SCEN00/F00_00.RLC",
@@ -380,9 +380,9 @@
   {
     "file": "SCEN01.OVL",
     "before_bytes": 114756,
-    "after_bytes": 116226,
+    "after_bytes": 116169,
     "before_sha256": "9b3206f4d471293cc54e41983a21083bd365c30b642a3fa7cbf97c09f6b4271c",
-    "after_sha256": "9ebc6c2a374db2fc44647929a23ef81286c6f379ffb3ce2fad58fd96104808bf"
+    "after_sha256": "f187bd8061a587912821da2221176a8dc1cc298834f505e2c47fabff1b574462"
   },
   {
     "file": "SCEN01/F01_00.RLC",
@@ -401,22 +401,22 @@
   {
     "file": "SCEN03.OVL",
     "before_bytes": 15658,
-    "after_bytes": 15845,
+    "after_bytes": 15864,
     "before_sha256": "79fbbe0b66ba9292bda5941d2b2bf0b7f052c409c099e3d5c40944bacbc09ac3",
-    "after_sha256": "19059a625ca5562d41362ca079aea48b111db88691c6e22ddcc5c5fe8078a7b0"
+    "after_sha256": "58e6c4987f24070b482640c62c9ed362697d6cbbb97bdd508a20594e25eafe49"
   },
   {
     "file": "SCEN04.OVL",
     "before_bytes": 14837,
-    "after_bytes": 14608,
+    "after_bytes": 14588,
     "before_sha256": "a52c604a00a296ff494ac114e1056aa68baac50b5b6e595a1a337446d4bce229",
-    "after_sha256": "2c106057a1ae0940c22448f60a084543f0f74ee19797994f54f127ae604df2ff"
+    "after_sha256": "b1fb275edb25801ed49bb3370d4cefbad3a9f557329ba4625e537b1d2e0af0d3"
   },
   {
     "file": "SCEN05.OVL",
     "before_bytes": 21365,
-    "after_bytes": 21523,
+    "after_bytes": 21518,
     "before_sha256": "985936a41359b8971af1aa7502f95ac913649da7e17410bf1975394547f0c1dd",
-    "after_sha256": "7e83b0aad11f4b16359f04a1b37d48b6fa9666cebf1c9fe21c6d77637f720508"
+    "after_sha256": "59d66ed8c69861b73715bb5d5774b6f64bc8e91397428db61ebc0329a59379b1"
   }
 ]

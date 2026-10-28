@@ -1,4 +1,4 @@
-"""Standalone Vol.3 v0.75 installer, adapted from the MIT-licensed Vol.1 patcher."""
+"""Standalone Vol.3 v0.8 installer, adapted from the MIT-licensed Vol.1 patcher."""
 from pathlib import Path
 import argparse
 import hashlib
@@ -131,12 +131,12 @@ def gui(smoke_result=None):
     from tkinter import filedialog, messagebox, ttk
     manifest = read_manifest()
     root = tk.Tk()
-    root.title('엘도라도 게이트 Vol.3 한글 패치 v0.75')
+    root.title('엘도라도 게이트 Vol.3 한글 패치 v0.8')
     root.geometry('700x520')
     root.resizable(False, False)
     panel = ttk.Frame(root, padding=20)
     panel.pack(fill='both', expand=True)
-    ttk.Label(panel, text='엘도라도 게이트 Vol.3 · 한글 패치 v0.75', font=('맑은 고딕', 17, 'bold')).pack(anchor='w')
+    ttk.Label(panel, text='엘도라도 게이트 Vol.3 · 한글 패치 v0.8', font=('맑은 고딕', 17, 'bold')).pack(anchor='w')
     ttk.Label(panel, text='대사 · UI · 오프닝 · 추가 콘텐츠 · 다운로드 상점 77종', font=('맑은 고딕', 11)).pack(anchor='w', pady=(8,14))
     source = tk.StringVar()
     destination = tk.StringVar()
@@ -148,14 +148,14 @@ def gui(smoke_result=None):
         if filename:
             source.set(filename)
             if not destination.get():
-                destination.set(str(Path(filename).parent.parent/'El-Dorado-Gate-Volume-3-Kr-v0.75'))
+                destination.set(str(Path(filename).parent.parent/'El-Dorado-Gate-Volume-3-Kr-v0.8'))
     ttk.Button(source_row, text='선택', command=choose_source).pack(side='left', padx=(7,0))
     output_row = ttk.Frame(panel); output_row.pack(fill='x', pady=4)
     ttk.Label(output_row, text='새 출력 폴더', width=12).pack(side='left')
     ttk.Entry(output_row, textvariable=destination, width=60).pack(side='left', fill='x', expand=True)
     def choose_output():
         folder = filedialog.askdirectory(parent=root, title='새 출력 폴더를 만들 위치 선택')
-        if folder: destination.set(str(Path(folder)/'El-Dorado-Gate-Volume-3-Kr-v0.75'))
+        if folder: destination.set(str(Path(folder)/'El-Dorado-Gate-Volume-3-Kr-v0.8'))
     ttk.Button(output_row, text='선택', command=choose_output).pack(side='left', padx=(7,0))
     ttk.Label(panel, text='일본판 v1.001 원본 3트랙 GDI에 적용합니다.\n원본·결과 해시를 검사하고, 결과는 새 폴더에 만듭니다.\n전체 플레이 검증은 아직 완료되지 않았습니다.', font=('맑은 고딕',10)).pack(anchor='w', pady=(15,9))
     def show_licenses():
@@ -207,7 +207,7 @@ def gui(smoke_result=None):
         root.update_idletasks(); root.update()
         assert root.winfo_width() == 700 and root.winfo_height() == 520
         assert button.cget('text') == '한글 패치 적용'
-        assert manifest['version'] == 'v0.75' and manifest['download_shop']['stock_records'] == 77
+        assert manifest['version'] == 'v0.8' and manifest['download_shop']['stock_records'] == 77
         assert manifest['game'] == 'El-Dorado Gate Volume 3'
         assert resource(manifest['patch']['file']).is_file()
         assert resource('licenses/xdelta-Apache-2.0.txt').is_file()

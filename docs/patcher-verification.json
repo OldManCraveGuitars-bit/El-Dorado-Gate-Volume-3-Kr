@@ -1,27 +1,13 @@
 {
   "success": true,
-  "version": "v0.75",
-  "executable_sha256": "590d2899a071af86149cee75819f9dd30b4144de31d49dce79ba0f0500feefdb",
+  "version": "v0.8",
+  "internal_build": "v0.29",
+  "executable_sha256": "965c85a55ebd6ac4e5e3bf4042d5124beea7cc0516d7942a28aa03fff8a43a49",
+  "patch_sha256": "74d8990d44c35c2111b97269891b928b8b4bf3a543e6e1b165eebdbb9bc7a4fb",
+  "output_track03_sha256": "5812bb5d4e4bbfe3caa65015039eb52dcadf3501311bd6ce37cd04784da0c5df",
   "original_tracks_untouched": true,
-  "actual_output_track_hashes": {
-    "track01.bin": "e100c442c927b313e282aa2a34659bc3aeae5f27cf173640c2a9bd913d2b8499",
-    "track02.raw": "cd7c82d88f21e4ebb32a94c65f15f625df871c933d6d78cbf85c671778a6ffca",
-    "track03.bin": "ce1f138d02f4894e65626567dc69598a6d981e27686408f7f3d19af7243461c6"
-  },
-  "output_gdi_sha256": "025516557d49e1835e7eb8571e09244b64db190cf3981ead555c54b1924ca19f",
-  "standalone_embedded_payload_verified": true,
-  "no_sidecar_delta_or_Python_tools_used": true,
-  "frozen_GUI": {
-    "success": true,
-    "version": "v0.75",
-    "gui_created": true,
-    "embedded_manifest_loaded": true,
-    "embedded_patch_found": true,
-    "licenses_available": true,
-    "original_files_modified": false
-  },
-  "existing_output_refused_and_preserved": true,
-  "unsupported_original_refused_before_output_creation": true,
-  "public_unit_tests_passed": 7,
-  "full_playthrough_verified": false
+  "actual_EXE_output_matches_verified_GDI": true,
+  "no_sidecar_payload_or_Python_tools_needed": true,
+  "GUI_smoke_verified": true,
+  "original_or_completed_ROM_in_package": false
 }
