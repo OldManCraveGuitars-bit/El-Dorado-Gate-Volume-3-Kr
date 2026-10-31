@@ -119,9 +119,10 @@
     }
   ],
   "game": "El-Dorado Gate Volume 3",
-  "public_release": "v0.8",
-  "release_track_identical_to_internal_build": "v0.29 final",
+  "public_release": "v0.85",
+  "release_track_identical_to_internal_build": "v0.30",
   "all_captures_actual_game_output": true,
   "AI_images_used": false,
-  "note": "Earlier settings, title, opening, shop and browser captures are marked by their actual build. They are not presented as newly captured v0.75 images. Locked monster rows are the normal contents of the loaded QA save; no forced unlock was used."
+  "note": "All 13 framebuffer screenshots retain their actual historical build and original bytes. The current chapter-font comparison is an asset review, not a game screenshot. No forced unlock was used.",
+  "current_release_native_captures": 0
 }

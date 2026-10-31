@@ -1,0 +1,37 @@
+{
+  "public_version": "v0.85",
+  "images": [
+    {
+      "file": "docs/images/chapter-font-v085.png",
+      "sha256": "c355d061ff33caeffee98ebc0c77ab6941b3839e4acbfcd7892ccb0317eb12e1",
+      "original_emulator_framebuffer": false,
+      "AI_generated": false,
+      "kind": "native ROM asset comparison"
+    },
+    {
+      "file": "docs/images/status-badges-v08.png",
+      "sha256": "191f706bfd604964453c740ad81c31fafc9a0d4a408046a571604c9976d3d8ab",
+      "original_emulator_framebuffer": false,
+      "AI_generated": false,
+      "kind": "native ROM asset enlarged review"
+    },
+    {
+      "file": "docs/images/ending-credit-v08.png",
+      "sha256": "bd2e819186f25024801e19a5e3ea7d818b31016077d7c0beb7c6cc6c872eb740",
+      "original_emulator_framebuffer": false,
+      "AI_generated": false,
+      "kind": "native ROM asset enlarged review"
+    }
+  ],
+  "chapter_comparison": {
+    "source_sprites": [
+      "SCEN00/F00_00.RLC#460",
+      "SCEN01/F01_00.RLC#311"
+    ],
+    "left": "Japanese original",
+    "middle": "v0.8 Korean bitmap",
+    "right": "v0.85 BatangChe",
+    "integer_review_scale": 2,
+    "font_file_distributed": false
+  }
+}

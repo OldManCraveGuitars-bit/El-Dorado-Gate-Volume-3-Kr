@@ -373,9 +373,9 @@
   {
     "file": "SCEN00/F00_00.RLC",
     "before_bytes": 350074,
-    "after_bytes": 348122,
+    "after_bytes": 349156,
     "before_sha256": "ca91102499c94bd2e0f0c1f5dcd7ceed2087cbe50f55749a8e84622e16da5089",
-    "after_sha256": "e252b2fe280b2b706a660e691cf6f4f92367acd6b1d491affecb10447112be65"
+    "after_sha256": "b9d3e7bc6f2709d8cc3d60b2ba5e05e9f7c8bcd1893d6c1ecfa65b98086aace0"
   },
   {
     "file": "SCEN01.OVL",
@@ -387,9 +387,9 @@
   {
     "file": "SCEN01/F01_00.RLC",
     "before_bytes": 410628,
-    "after_bytes": 408543,
+    "after_bytes": 409955,
     "before_sha256": "b665a62ffeb945e3173d392ca82414d570137da9699b6e6934dd6f373868542b",
-    "after_sha256": "9490aed466cf1f475cd05267b3a354cfee2e18f61aa89bf868ef5e9637c21068"
+    "after_sha256": "146bcc7aba2e8d5e10777bb4796112c74686e4058dbfb27783938c0bbd98c2a5"
   },
   {
     "file": "SCEN01/F01_09.RLC",

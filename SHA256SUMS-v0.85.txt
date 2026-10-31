@@ -1,0 +1,3 @@
+90f15de0285e142e7a123a628c0d5ddf8797ca6fb364c8956516dd13dd95b81e  El-Dorado-Gate-Volume-3-Kr-v0.85-Patcher.exe
+c4ecf5f10c97362bd36c41a0b43c8717c53513638d6ad303ac52ea4f6262802e  El-Dorado-Gate-Volume-3-Kr-v0.85.zip
+b0011bcff0c0fb73ccb0b2e251bb20d536957db77aa7f6ba254556faef801b7d  track03-v0.85.xdelta

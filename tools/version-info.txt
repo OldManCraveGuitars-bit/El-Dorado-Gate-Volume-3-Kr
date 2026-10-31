@@ -1,12 +1,12 @@
 VSVersionInfo(
-  ffi=FixedFileInfo(filevers=(0,8,0,0), prodvers=(0,8,0,0), mask=0x3f,
+  ffi=FixedFileInfo(filevers=(0,85,0,0), prodvers=(0,85,0,0), mask=0x3f,
                    flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
   kids=[StringFileInfo([StringTable('040904B0', [
     StringStruct('FileDescription', 'El-Dorado Gate Volume 3 Korean Patcher'),
-    StringStruct('FileVersion', '0.8.0.0'),
+    StringStruct('FileVersion', '0.85.0.0'),
     StringStruct('ProductName', 'El-Dorado-Gate-Volume-3-Kr'),
-    StringStruct('ProductVersion', '0.8'),
-    StringStruct('OriginalFilename', 'El-Dorado-Gate-Volume-3-Kr-v0.8-Patcher.exe'),
+    StringStruct('ProductVersion', '0.85'),
+    StringStruct('OriginalFilename', 'El-Dorado-Gate-Volume-3-Kr-v0.85-Patcher.exe'),
     StringStruct('LegalCopyright', 'Patcher (c) 2026 GiKakNo; see included licenses')
   ])]), VarFileInfo([VarStruct('Translation', [1033, 1200])])]
 )

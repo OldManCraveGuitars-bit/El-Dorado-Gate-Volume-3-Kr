@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "internal_build": "v0.30",
+  "track03_sha256": "9ef09d7c76e9a898a02ba428a13889418f9c664c1bde25842608332b8f729334",
+  "changed_asset_files": [
+    "SCEN00/F00_00.RLC",
+    "SCEN01/F01_00.RLC"
+  ],
+  "other_patched_assets_byte_identical": 58,
+  "chapter_font": "BatangChe",
+  "chapter_sprites": 2,
+  "chapter_font_sizes": [
+    22,
+    28
+  ],
+  "chapter_text_and_shadow_not_clipped": true,
+  "chapter_positions_and_animation_tables_preserved": true,
+  "only_two_chapter_sprite_payloads_changed": true,
+  "registered_translation_rows_unchanged": 17199,
+  "existing_Hangul_font_codes_and_pixels_preserved": 1043,
+  "layout_errors": 0,
+  "status_badges_match_actual_Vol1_disc": 9,
+  "status_fixed_literals_verified": 18,
+  "reference_Vol1": "1.7.13",
+  "special_ability_header": "특수능력",
+  "header_width": 96,
+  "header_budget": 96,
+  "native_runtime_verified": false,
+  "full_playthrough_verified": false,
+  "public_version": "v0.85",
+  "frozen_editor_current_preview_verified": true,
+  "packaged_EXE_original_GDI_apply_verified": true
+}

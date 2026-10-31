@@ -1,6 +1,6 @@
 {
-  "public_version": "v0.8",
-  "internal_build": "v0.29",
+  "public_version": "v0.85",
+  "internal_build": "v0.30",
   "applied_translation_records": 17199,
   "applied_by_storage": {
     "native_text": 4972,
@@ -16,10 +16,10 @@
   "files_verified": 923,
   "changed_files": 60,
   "original_files_preserved": 863,
-  "changed_sectors_verified": 15387,
+  "changed_sectors_verified": 15389,
   "all_changed_sector_edc_ecc_valid": true,
   "original_tracks_untouched": true,
-  "output_track03_sha256": "5812bb5d4e4bbfe3caa65015039eb52dcadf3501311bd6ce37cd04784da0c5df",
+  "output_track03_sha256": "9ef09d7c76e9a898a02ba428a13889418f9c664c1bde25842608332b8f729334",
   "output_gdi_sha256": "025516557d49e1835e7eb8571e09244b64db190cf3981ead555c54b1924ca19f",
   "original_track_layout": [
     [
@@ -50,7 +50,7 @@
   "existing_Hangul_cells_preserved": 1043,
   "appended_Hangul_cells": 0,
   "editor_integration_tests_passed": 17,
-  "editor_frozen_full_track_reproduction_verified": true,
+  "editor_frozen_full_track_reproduction_verified": false,
   "patcher_unit_tests_passed": 7,
   "frozen_EXE_applied_to_original_GDI": true,
   "output_of_frozen_EXE_cold_boot_verified": false,
@@ -80,5 +80,15 @@
   "original_collection_counts_and_item_stats_preserved": true,
   "native_ending_playback_verified": false,
   "credit_names_with_provisional_readings": 4,
-  "byte_identical_internal_GDI_cold_boot_verified": true
+  "byte_identical_internal_GDI_cold_boot_verified": false,
+  "editor_frozen_full_track_reproduction_last_verified_build": "v0.29",
+  "editor_current_data_frozen_UI_verified": true,
+  "prior_release_cold_boot_verified": "v0.8",
+  "current_release_native_runtime_verified": false,
+  "changed_chapter_title_sprites": 2,
+  "chapter_title_font": "BatangChe",
+  "other_patched_files_identical_to_v08": 58,
+  "status_badge_pixels_match_actual_Vol1": 9,
+  "compact_header": "특수능력",
+  "compact_header_width": 96
 }
